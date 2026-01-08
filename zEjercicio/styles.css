@@ -1,0 +1,61 @@
+body{
+    margin: auto;
+    background-color: #13141320 ;
+    font-family: sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    font-weight: 200;
+    margin: 5%;
+
+}
+
+
+
+
+form{
+
+    text-align: center;
+
+    margin: auto;
+    width: 400px;
+    height: auto;
+    border: 1px solid black;
+    margin-top: 10%;
+    padding: 40px;
+    box-shadow: 0 0 35px 0  #6f736f;
+    border-radius: 5%;
+
+    
+}
+
+
+
+input{
+
+   margin: 2px;
+
+
+}
+
+.imput{
+
+    margin:8px ;
+    padding: 2px;
+
+
+}
+textarea{
+
+    margin:8px ;
+    padding: 2px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+

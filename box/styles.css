@@ -1,0 +1,29 @@
+body{
+    background: rgba(20, 20, 20, 0.785);
+    border: 2px solid red;
+    padding: 10%;
+}
+
+form{
+    text-align: center;
+}
+
+
+
+.form{
+    margin-left: 100px;
+    padding: 10px;
+   
+    display: flex;
+    
+    
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    border-top: 0.5px solid rgb(47, 47, 47);
+    border-left:  0.5px solid rgb(47, 47, 47);
+    background: whitesmoke;
+    border-radius: 4px;
+}
+

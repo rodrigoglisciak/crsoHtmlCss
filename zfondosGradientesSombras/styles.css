@@ -1,0 +1,28 @@
+div{
+    border: 3px solid #DBDBDB;
+    background: #CCCCCC;
+    height: 300px;
+    width: 500px;
+    border-radius: 2%;
+    background: linear-gradient(transparent,#89898b)    ;
+    box-shadow: 0 0 20px 0 #2f2f37;
+    margin: auto;
+    margin-top: 30px;
+    
+    padding: auto;
+    padding-top: 30px;
+}
+
+h2{
+    text-align: center;
+    color: #2f2f37;
+    font-weight: 100;
+    text-shadow: 0 0 100px 0 #9999a3;
+
+}
+
+p{
+    font-family:'';
+    font-size: 16px;
+    color: rgb(79, 73, 73);
+}
