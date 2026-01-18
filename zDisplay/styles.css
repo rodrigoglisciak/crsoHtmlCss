@@ -1,0 +1,108 @@
+body{
+
+    margin: 0;
+   
+}
+
+
+.nav__bar{
+
+background-color: #1487ca;
+padding: 10px;
+height: 80px
+
+
+}
+
+.nav__list{
+    display: inline-block;
+    border: 2px solid red;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 15px;
+
+}
+
+.list{
+    margin: 10px;
+    justify-content: center;
+    
+    
+}
+
+
+
+
+a{
+
+    text-decoration: none;
+}
+
+.cajaUno{
+
+    border: 3px solid #163b51;
+    background: #1487ca;
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    
+
+}
+
+.cajaDos{
+    border: 3px solid #1487ca;
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    background: #892889;
+    
+    z-index: 30px;
+
+}
+
+
+p{
+    justify-content: center;
+    justify-self: center;
+}
+
+.absolute{
+
+    border: 2px solid #000;
+    margin: 10px;
+    position: relative;
+
+}
+
+
+.caja1{
+
+    border: 1px solid #000;
+    width: 100px;
+    height:100px;
+    margin: 50px;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    
+}
+.caja2{
+
+    border: 1px solid #000;
+    width: 100px;
+    height:100px;
+    margin: 50px;
+    
+}
+.caja3{
+
+    border: 1px solid #000;
+    width: 100px;
+    height:100px;
+    margin: 50px;
+    position: relative;
+    top: 50.%d;
+}
